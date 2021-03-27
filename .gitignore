@@ -1,0 +1,4 @@
+__pycache__
+.DS_Store
+project2.json
+secret_data.py
